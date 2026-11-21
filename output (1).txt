@@ -1,0 +1,14 @@
+=== Percakapan Awal di Pabrik Roti Sari Manis ===
+
+Budi: Selamat pagi, Bu Rina. Terima kasih sudah memberi saya kesempatan.
+Rina: Selamat pagi, Budi. Silakan duduk. Saya Rina, Manajer HRD di Pabrik Roti Sari Manis.
+Rina: Boleh ceritakan sedikit tentang diri Anda?
+Budi: Saya Budi, umur 22 tahun, lulusan SMK Teknik Pengolahan Pangan.
+Rina: Anda melamar sebagai Operator Produksi. Apa alasan Anda tertarik di bagian ini?
+Budi: Saya suka proses pembuatan roti dan ingin belajar di bagian Operator Produksi.
+Rina: Apakah Anda punya pengalaman kerja di bidang produksi makanan?
+Budi: Saya punya pengalaman magang 6 bulan di toko roti.
+Rina: Pabrik kami beroperasi dengan sistem shift, termasuk shift pagi buta. Apakah Anda siap?
+Budi: Siap, Bu. Saya bisa bekerja di shift pagi maupun malam.
+Rina: Terima kasih, Budi. Kami akan menghubungi Anda dalam 3 hari kerja.
+Budi: Terima kasih kembali, Bu. Saya tunggu kabar baiknya.
